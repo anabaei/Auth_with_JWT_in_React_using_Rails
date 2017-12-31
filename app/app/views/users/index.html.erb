@@ -1,0 +1,8 @@
+<h1>Users#index</h1>
+
+
+<%= form_for @user do |f| %>
+<%= f.text_field :username %>
+<%= f.text_area :password %>
+<%= f.submit "create" %>
+<% end %>
