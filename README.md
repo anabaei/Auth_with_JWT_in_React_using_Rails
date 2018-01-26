@@ -3,3 +3,4 @@
 
 #### Cross Origin Resource Sharing
 Browsers prevent apps to make Ajax request to other domains so for rails app we beed to install `rack-cors` gem,
+* useful [link](https://www.securitydrops.com/session-management/)
