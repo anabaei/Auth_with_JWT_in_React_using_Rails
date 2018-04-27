@@ -23,7 +23,7 @@ class Signin extends Component {
 
 
 //   const {onSubmit = () => {}} = props;
-  //  const DOMAIN = 'http://www.eventbriteapi.com/v3/users/me/?token=BOJPDFI7HSHDCV6WQZAL';
+  //  const DOMAIN = 'http://www.eventbriteapi.com/v3/users/me/?token=BOJPDXXXXXXXXXX';
      handleSubmit = event => {
      event.preventDefault();
      console.log({target: event.target});
